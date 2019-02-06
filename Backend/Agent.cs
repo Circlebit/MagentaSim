@@ -21,11 +21,40 @@ namespace Backend
 
     class Seller : Agent
     {
+        public Offer Offer { get; set; }
+    }
+
+    class Offer
+    {
+        public Seller Seller { get; set; }
+
+        public double PricePerUnit { get; set; }
+        public uint MaxUnits { get => Seller.Storage; }
+        
+
+
+
+        public void Transact(Buyer buyer, uint units)
+        {
+            double total = PricePerUnit * units;
+            if(units <= MaxUnits)
+            {
+                Seller.Storage -= units;
+                buyer.Cash -= total;
+
+                Seller.Cash += total;
+                buyer.Storage += units;
+            }
+        }
 
     }
 
+
     class Buyer : Agent
     {
-
+        public void Buy(Offer offer, uint units)
+        {
+            offer.Transact(this, units);
+        }
     }
 }
