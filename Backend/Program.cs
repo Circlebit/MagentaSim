@@ -14,6 +14,9 @@ namespace Backend
             var myMarket = new Market("myMarket.sqlite");
             myMarket.OpenConnection();
             myMarket.CreateTestTable();
+
+            myMarket.AddSellers(10, 0, 100);
+            myMarket.AddBuyers(10, 1000, 0);
         }
     }
 
@@ -25,6 +28,8 @@ namespace Backend
         public string Filename { get; private set; }
         private SQLiteConnection Connection { get; set; }
 
+        public List<Seller> Sellers { get; set; }
+        public List<Buyer> Buyers { get; set; }
 
         public Market(string filename)
         {
@@ -33,6 +38,25 @@ namespace Backend
                 $"Data Source = {Filename}; " +
                 $"Version = 3;");
             SQLiteConnection.CreateFile(filename);
+
+            Sellers = new List<Seller>();
+            Buyers = new List<Buyer>();
+        }
+
+        public void AddSellers(uint amount, double initCash, uint initStorage)
+        {
+            for (int i = 0; i < amount; i++)
+            {
+                Sellers.Add(new Seller(initCash, initStorage));
+            }
+        }
+
+        public void AddBuyers(uint amount, double initCash, uint initStorage)
+        {
+            for (int i = 0; i < amount; i++)
+            {
+                Buyers.Add(new Buyer(initCash, initStorage));
+            }
         }
 
         public void OpenConnection()
