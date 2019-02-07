@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Data.SQLite;
+using System.Security.Cryptography;
 
 namespace Backend
 {
@@ -31,6 +32,11 @@ namespace Backend
         public List<Seller> Sellers { get; set; }
         public List<Buyer> Buyers { get; set; }
 
+        /// <summary>
+        /// number of time steps that have passed
+        /// </summary>
+        public uint TimePassed { get; private set; }
+
         public Market(string filename)
         {
             Filename = filename;
@@ -41,6 +47,26 @@ namespace Backend
 
             Sellers = new List<Seller>();
             Buyers = new List<Buyer>();
+
+            TimePassed = 0;
+        }
+
+        public void Step()
+        {
+            FirstToBack(Sellers);
+
+            FirstToBack(Buyers);
+            foreach(Buyer buyer in Buyers)
+            {
+                buyer.Act();
+            }
+        }
+
+        public static void FirstToBack<T>(this List<T> list)
+        {
+            T item = list[0];
+            list.RemoveAt(0);
+            list.Add(item);
         }
 
         public void AddSellers(uint amount, double initCash, uint initStorage)
