@@ -17,7 +17,7 @@ namespace Backend
             myMarket.CreateTestTable();
 
             myMarket.AddSellers(10, 0, 100);
-            myMarket.AddBuyers(10, 1000, 0);
+            myMarket.AddBuyers(10, 1000, 0, 200);
         }
     }
 
@@ -62,7 +62,7 @@ namespace Backend
             }
         }
 
-        public static void FirstToBack<T>(this List<T> list)
+        public void FirstToBack<T>(List<T> list)
         {
             T item = list[0];
             list.RemoveAt(0);
@@ -77,11 +77,11 @@ namespace Backend
             }
         }
 
-        public void AddBuyers(uint amount, double initCash, uint initStorage)
+        public void AddBuyers(uint amount, double initCash, uint initStorage, uint maxStorage)
         {
             for (int i = 0; i < amount; i++)
             {
-                Buyers.Add(new Buyer(initCash, initStorage));
+                Buyers.Add(new Buyer(this, initCash, initStorage, maxStorage));
             }
         }
 

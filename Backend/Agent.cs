@@ -65,10 +65,50 @@ namespace Backend
 
     class Buyer : Agent
     {
-        public Buyer(double initCash, uint initStorage)
+        public uint MaxStorage { get; set; }
+        public uint FreeStorage { get => MaxStorage - Storage; }
+
+        public static uint TotalBuyers { get; private set; }
+        public uint BuyerID { get; private set; }
+
+        private Market Market { get; set; }
+
+        public Buyer(Market market, double initCash, uint initStorage, uint maxStorage)
         {
+            Market = market;
             Cash = initCash;
             Storage = initStorage;
+            MaxStorage = maxStorage;
+            TotalBuyers++;
+            BuyerID = TotalBuyers;
+        }
+
+        internal void Act()
+        {
+            if (FreeStorage > 0)
+            {
+                var bestOffer = FindBestOffer();
+                uint amount = bestOffer.MaxUnits;
+                if (amount > FreeStorage)
+                {
+                    amount = FreeStorage;
+                }
+                else if ( bestOffer.MaxUnits < FreeStorage)
+                {
+                    amount = bestOffer.MaxUnits;
+                }
+                Buy(bestOffer, amount);
+            }
+            else
+            {
+                Console.WriteLine($"Buyer {BuyerID}: Can't buy anything, my storage is full.");
+            }
+        }
+
+        private Offer FindBestOffer()
+        {
+            var SellerWithBestOffer = Market.Sellers.Aggregate<Seller>((curMin, x) => x.Offer.PricePerUnit < curMin.Offer.PricePerUnit ? x : curMin);
+            return SellerWithBestOffer.Offer;
         }
 
         public void Buy(Offer offer, uint units)

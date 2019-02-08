@@ -29,13 +29,22 @@ There will always be agents who have an advantage by going first but both these 
 
 ## Ideen für die Zukunft
  - Visualisierung der Ergebnisse in Graphen
-    - Berechnete Idealergebnisse einblendbar
+	- Berechnete Idealergebnisse einblendbar
  - Mehrere Simulation nacheinander automatisch
-    - Gesamtübersicht
-    - Durschnittsergebnis
+	- Gesamtübersicht
+	- Durschnittsergebnis
  - Replay mit eintsellbarer Geschwindigkeit
  - Start- und Randbedingungen: welche kann man einstellen, wo und wie?
-    - dürfen sich Agenten verschulden / was ist ihr Skonto
+	- dürfen sich Agenten verschulden / was ist ihr Skonto
  - Geld: Jeder verwaltet seinen "Geldbeutel" selbst oder es gibt eine Bank, die Transaktionen abwickelt 
  - Mengenrabatt / Mindestmenge
  - unterschiedliche Waren
+ - Etwas größeres Wirtschaftssystem modellieren
+	- Produktionsketten
+	- Verbrauch
+	- Händler
+	- Kreisläufe
+ - räumliches Handlen
+	- Händler müssen Reisen auf einer Karte
+	- Preis je nach Angebot inS Sektor
+ - Bank / Schulden
