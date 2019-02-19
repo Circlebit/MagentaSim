@@ -48,3 +48,12 @@ There will always be agents who have an advantage by going first but both these 
 	- Händler müssen Reisen auf einer Karte
 	- Preis je nach Angebot inS Sektor
  - Bank / Schulden
+
+ - Alles auf Deutsch machen
+  - Lerntool für Wirtschaft in deutschsprachigem Bildungskontext, da macht es Sinn die deutschen Begriffe anzuwenden
+   - Übersetzung wäre nett, aber wenn dann im Anschluss
+  - deutschsprachige Videos dazu
+ 
+ - Modellieren:
+  - Die Modellierung nicht mehr an den Formeln orientieren, sondern frei mit Echtweltbezug und dann sehen ob die Formeln "passieren"
+  - lediglich die Randbedingungen müssen halt vergleichbar sein
