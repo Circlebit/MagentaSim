@@ -57,3 +57,16 @@ There will always be agents who have an advantage by going first but both these 
  - Modellieren:
   - Die Modellierung nicht mehr an den Formeln orientieren, sondern frei mit Echtweltbezug und dann sehen ob die Formeln "passieren"
   - lediglich die Randbedingungen müssen halt vergleichbar sein
+  
+  - für das erste Modell
+   - Käufer ODER Verkäufer (keine Agent kann beides oder mehr)
+   - Käufer
+
+   "Bei der Bestimmung des Gleichgewichtspreises geht man davon aus, dass die Anbieter ihre Waren und Erzeugnisse zu einem möglichst hohen Preis
+    verkaufen wollen und die angebotene Menge eines Gutes umso größer ist, je höher der Preis dieses Gutes ist, wie es in der Angebotsfunktion 
+	zum Ausdruck kommt. Umgekehrt nimmt man für die Nachfrager an, dass sie die Waren und Erzeugnisse zu möglichst niedrigen Preisen 
+	einkaufen wollen und die nachgefragte Menge eines Gutes umso höher ist, je niedriger der Preis dieses Gutes liegt, 
+	verdeutlicht durch die Nachfragefunktion"
+   (Gleichgewichtspreis)[https://www.bpb.de/nachschlagen/lexika/lexikon-der-wirtschaft/19528/gleichgewichtspreis]
+
+   Also Frage: wie kommt man auf die angebotene Menge beim Verkäufer bzw. nachgefragte Menge beim Käufer
