@@ -53,6 +53,8 @@ There will always be agents who have an advantage by going first but both these 
   - Lerntool für Wirtschaft in deutschsprachigem Bildungskontext, da macht es Sinn die deutschen Begriffe anzuwenden
    - Übersetzung wäre nett, aber wenn dann im Anschluss
   - deutschsprachige Videos dazu
+  - Englische Literatur ist aber meistens einfacher zu verstehen und die Begriffe beidsprachig zu lernen ist auch nützlich
+- Literal Programming?
  
  - Modellieren:
   - Die Modellierung nicht mehr an den Formeln orientieren, sondern frei mit Echtweltbezug und dann sehen ob die Formeln "passieren"
