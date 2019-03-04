@@ -69,6 +69,27 @@ Notizen zur Vorlesung [Grundkurs VWL(WiSe 14/15)](https://lecture2go.uni-hamburg
     - Anstieg des Preisniveaus in Volkswirtschaft: __Inflation__
 10. Kurzfristig kann es einen Zielkonflikt geben zwischen Inflation und Arbeitslosigkeit
 
+## Ökonomisches Denken
+### Beispiele für ökonomische Modelle
+- [Kreislaufmodell](https://de.wikipedia.org/wiki/Wirtschaftskreislauf#Einfacher_Wirtschaftskreislauf)
+
+  [![https://de.wikipedia.org/wiki/Wirtschaftskreislauf#Einfacher_Wirtschaftskreislauf](Einfacher_Wirtschaftskreislauf.png) ](https://de.wikipedia.org/wiki/Wirtschaftskreislauf#Einfacher_Wirtschaftskreislauf)
+
+- [Produktionsmöglichkeitenkurve](https://de.wikipedia.org/wiki/Transformationskurve)
+  - __Allokation__ = Zuordnung von Produktionsfaktoren
+    - Allokationen sind...
+      - __ineffizient__: von einem Gut mehr hergestellt werden kann, während vom anderen gleichviel hergestellt wird (unterhalb der Produktionsmöglichkeitenkurve)
+      - __effizient__: kann nicht von einem Gut noch mehr produzieren ohne vom anderen etwas aufgeben zu müssen (auf der Produktionsmöglichkeitenkurve)
+
+### Ökonomische Ansätze
+ - Mikroökonomik
+   - betrachtet das Verhalten von Haushalten und Unternehmen
+   - wie diese auf den Märkten interagieren
+   - und auf staatlich EIngriffe reagieren
+ - Makroökonomik
+   - untersucht gesamtwirtschaftliche Phänomene wie Inflation, Arbeitslosigkeit, Wirtschaftswachstum
+   - und deren Entstehung, Dynamik, Zusammenhänge
+
 ## Sonstiges
 - Rationalität+
   - Aus Fehler der Vergangenheit lernen

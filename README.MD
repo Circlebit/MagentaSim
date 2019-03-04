@@ -54,6 +54,7 @@ There will always be agents who have an advantage by going first but both these 
    - Übersetzung wäre nett, aber wenn dann im Anschluss
   - deutschsprachige Videos dazu
   - Englische Literatur ist aber meistens einfacher zu verstehen und die Begriffe beidsprachig zu lernen ist auch nützlich
+    - Ökonomie als Wissenschaft findet fast ausschließlich auf Englisch statt
 - Literal Programming?
  
  - Modellieren:
