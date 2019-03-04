@@ -15,7 +15,7 @@ Notizen zur Vorlesung [Grundkurs VWL(WiSe 14/15)](https://lecture2go.uni-hamburg
 ## Zehn volkswirtschaftliche Prinzipien (Mankiw/Taylor)
 ### Wie treffen Menschen Entscheidungen?
 1. Menschen müssen abwägen
-2. Kosten = Was man dafür aufgibt
+2. __Kosten__ = Was man dafür aufgibt
 3. Rationale Entscheider denken in Grenzbegriffen
    - Marginale Änderungen sind kleine Abwandlungen eines bestehenden Aktionsplan
      - stückweise Abwägung "Fünf Äpfel nehm ich, will ich noch den sechsten?"
@@ -29,10 +29,45 @@ Notizen zur Vorlesung [Grundkurs VWL(WiSe 14/15)](https://lecture2go.uni-hamburg
 ### Wie wirken Menschen ökonomisch zusammen?
 5. Durch Handel kann es jedem besser gehen
    - Handel erlaubt Spezialisierung
+6. Märkte sind oft eine gute Organisationsform des Wirtschaftslebens
+   - Allokation der Ressourcen durch __dezentrale__ Entscheidungen vieler Akteure
+     - trotzdem herrscht selten Chaos (im Gegensatz zu Planwirtschaft)
+     - trotz egoistischer Einzelninteressen optimale Allokation ("unsichatbare Hand", Adam Smith)
+   - Koordination erfolgt über __Preise__
+     - zeigen die Knappheit von Gütern an (Informationsfunktion)
+     - üben Anreize aus (Lenkungsfunktion)
+7. Direkte Eingriffe des Staates können manchmal das Marktergebnis verbessern
+   - __Marktversagen:__ wenn der Markt keine effiziente Allokation herbeiführen kann 
+     - Beispiele:
+       - externe Effekte
+         - z.B. Umweltverschmutzung
+         - Akteure interagieren und profitieren. ABER: __Dritte haben dadurch Kosten__.
+       - Marktmacht
+         - z.B. Monopol
+         - Ausnutzung von Marktmacht kann durch Staat reguliert werden
+       - Öffentliche Güter
+         - z.B. Infrastruktur
+         - wenn man nicht entscheiden kann wer es nutzt funktioniert der Markt nicht, weil keiner einen Anreiz hat, dafür Geld zu bezahlen
+         - Ausschluss macht auch manchmal keinen Sinn (z.B. Fernsehproduktion kostet gleich viel, egal wieviel zuschauen)
+       - Informationsasymmetrien
+         - Anbieter weiß mehr über QUalität des Gutes
+     - Markt sorgt meist nicht für als gerecht empfundene Verteilung von Einkommen
+       - Umverteilung durch Sozialstaat (Einkommensteuer, Sozialhilfe, Gesetzliche Kranken- und Rentenversicherung)
 
 ### Wie funktioniert eine Volkswirtschaft?
-
-
+8. Der Lebensstandard eines Landes hängt von seiner Fähigkeit ab, Waren und Dienstleistungen herzustellen
+   - Messung des Lebensstandards, z.B. durch
+     - Vergleich der individuellen Einkommen
+     - Vergleich der Nationalen Wertschöpfung
+     - Arbeitsproduktitvität (Menge der pro Arbeitsstunde produzierten Güter)
+     - Vergleich Zugang zu Bildung
+     - Umweltqualität
+     - Lebenszufriedenheut / Glück
+9. Die Preise steigen, wenn zu viel Geld im Umlauf ist
+    - Oder: Die Preise steigen, wenn die Geldmenge schneller wächst als die Gütermenge
+    - Güter werden gegen Geld getauscht. Wenn bei gleicher Gütermenge die Geldmenge steigt, steigen die Güterpreise (und der Wert des Geldes sinkt, es ist weniger knapp)
+    - Anstieg des Preisniveaus in Volkswirtschaft: __Inflation__
+10. Kurzfristig kann es einen Zielkonflikt geben zwischen Inflation und Arbeitslosigkeit
 
 ## Sonstiges
 - Rationalität+
