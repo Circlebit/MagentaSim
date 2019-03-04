@@ -29,12 +29,6 @@ Notizen zur Vorlesung [Grundkurs VWL(WiSe 14/15)](https://lecture2go.uni-hamburg
 ### Wie wirken Menschen ökonomisch zusammen?
 5. Durch Handel kann es jedem besser gehen
    - Handel erlaubt Spezialisierung
-6. Märkte sind oft eine gute Organisationsform des Wirtschaftslebens
-   - Allokation der Ressourcen durch __dezentrale__ Entscheidungen vieler Akteure
-     - trotzdem herrscht selten Chaos (im Gegensatz zu Planwirtschaft)
-   - Koordination erfolgt über Preis
-     - Preise zeigen die Knappheit von Gütern an (Informationsfunktion)
-     - 
 
 ### Wie funktioniert eine Volkswirtschaft?
 
