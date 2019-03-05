@@ -90,6 +90,19 @@ Notizen zur Vorlesung [Grundkurs VWL(WiSe 14/15)](https://lecture2go.uni-hamburg
    - untersucht gesamtwirtschaftliche Phänomene wie Inflation, Arbeitslosigkeit, Wirtschaftswachstum
    - und deren Entstehung, Dynamik, Zusammenhänge
 
+
+
+## Interdependenz und Handelsvorteile
+- Theorie des __komparativen Vorteils__
+  - Arbeitsteilung, Spezialisierung und Handel sind vorteilhaft, denn sie erlauben die Ausnutzung von _Unterschieden in den Opportunitätskosten_
+  - Selbst ein in jeder Disziplin Überlegener kann profitieren
+    - (Bsp. Mog u. Ooga)
+  - Unterscheide
+    - __Absoluter Vorteil__ für den Produzenten, der eine kleinere Menge von Inputs benötigt, um eine EInheit des Gutes herzustellen
+    - __Kompratativer Vorteil__ für den Produzenten, der die geringeren Opportunitätskosten in der Produktion eines Gutes aufweist.
+
+
 ## Sonstiges
 - Rationalität+
   - Aus Fehler der Vergangenheit lernen
+- __Opportunitätskosten:__ Der Wert der besten Alternative, die ich nicht wahrnehme. Also was ich dafür aufgebe.
