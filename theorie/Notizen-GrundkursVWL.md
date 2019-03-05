@@ -91,7 +91,6 @@ Notizen zur Vorlesung [Grundkurs VWL(WiSe 14/15)](https://lecture2go.uni-hamburg
    - und deren Entstehung, Dynamik, Zusammenhänge
 
 
-
 ## Interdependenz und Handelsvorteile
 - Theorie des __komparativen Vorteils__
   - Arbeitsteilung, Spezialisierung und Handel sind vorteilhaft, denn sie erlauben die Ausnutzung von _Unterschieden in den Opportunitätskosten_
@@ -100,6 +99,38 @@ Notizen zur Vorlesung [Grundkurs VWL(WiSe 14/15)](https://lecture2go.uni-hamburg
   - Unterscheide
     - __Absoluter Vorteil__ für den Produzenten, der eine kleinere Menge von Inputs benötigt, um eine EInheit des Gutes herzustellen
     - __Kompratativer Vorteil__ für den Produzenten, der die geringeren Opportunitätskosten in der Produktion eines Gutes aufweist.
+
+
+## Angebot und Nachfrage
+- Markt und Wettbewerb
+  - Markt besteht aus potenziellen Käufern (=Nachfragern) und Verkäufern (=Anbietern) eines Gutes oder Dienstleistung
+    - "potenziell" = ob und wieviel nachgefragt wird hängt vom Preis ab
+  - __Wettbewerb__ = vollständige Konkurrenz (Polypol)
+    - Vorrausetzungen:
+      - homogenes Gut
+      - Markttransparenz
+      - keine Präferenzen für Marktpartner
+      - Anbieter und nachfrager sind zahlreich. Kein Einzelner hat Einfluss auf den Marktpreis (und ist damit _Preisnehmer_ bzw. _Mengenanpasser_)
+  - __Nachfrage__ = die Gütermange, die Käufer erwerben wollen bzw. können
+    - _Gesetz der Nachfrage_ Nachfrage sinkt, wenn Preis steigt
+    - Darstellungen:
+      - Nachfrageplan (Tabelle mit Menge/Preis)
+      - Nachfragekurve
+      - Nachfragefunktion (Mathematische Funktion der Kurve)
+    - Prohibitivpreis = Preis ab dem der Preis zu hoch ist
+    - Sättigungsmenge = maximaler Konsum
+    - Preis wird traditionell an y-Achse abgetragen
+      - Mathematisch wäre es andersrum üblich: inverse Nachfragefunktion (nach P aufgelöst)
+    - Marktnachfrage = Summe über alle individuellen Nachfragen
+    - Änderung des Güterpreises = Bewegung auf der Nachfragekurve
+    - Änderung der Nachfrage = Verschiebung der Kurve
+      - Gründe:
+        - Einkommen der Käuferin
+        - Preise anderer Güter: Subustitute (positiv), Komplemente (negativ)
+        - Präferenzen der Käufer
+        - Erwartungen zu Preisänderungen
+        - Anzahl der Käufer
+
 
 
 ## Sonstiges
