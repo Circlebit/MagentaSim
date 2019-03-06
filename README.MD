@@ -48,6 +48,9 @@ There will always be agents who have an advantage by going first but both these 
 	- Händler müssen Reisen auf einer Karte
 	- Preis je nach Angebot inS Sektor
  - Bank / Schulden
+ - Versteigerungen
+ - Livesim mit anpassung der Randwert während dem lauf (man könnte sehen wie Marktgleichgewicht herrscht und durch hochziehen eines Wertes die anderen ausschlagen und sich wieder gegenseitig regulieren und so..?)
+   - Marktgleichgeiwcht als Ausgangssiuation
 
  - Alles auf Deutsch machen
   - Lerntool für Wirtschaft in deutschsprachigem Bildungskontext, da macht es Sinn die deutschen Begriffe anzuwenden
@@ -56,6 +59,7 @@ There will always be agents who have an advantage by going first but both these 
   - Englische Literatur ist aber meistens einfacher zu verstehen und die Begriffe beidsprachig zu lernen ist auch nützlich
     - Ökonomie als Wissenschaft findet fast ausschließlich auf Englisch statt
 - Literal Programming?
+
  
  - Modellieren:
   - Die Modellierung nicht mehr an den Formeln orientieren, sondern frei mit Echtweltbezug und dann sehen ob die Formeln "passieren"

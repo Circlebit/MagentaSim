@@ -111,8 +111,8 @@ Notizen zur Vorlesung [Grundkurs VWL(WiSe 14/15)](https://lecture2go.uni-hamburg
       - Markttransparenz
       - keine Präferenzen für Marktpartner
       - Anbieter und nachfrager sind zahlreich. Kein Einzelner hat Einfluss auf den Marktpreis (und ist damit _Preisnehmer_ bzw. _Mengenanpasser_)
-  - __Nachfrage__ = die Gütermange, die Käufer erwerben wollen bzw. können
-    - _Gesetz der Nachfrage_ Nachfrage sinkt, wenn Preis steigt
+  - __Nachfrage__ = die Gütermange, die Käufer erwerben wollen/können
+    - _Gesetz der Nachfrage:_ Nachfrage sinkt, wenn Preis steigt
     - Darstellungen:
       - Nachfrageplan (Tabelle mit Menge/Preis)
       - Nachfragekurve
@@ -126,10 +126,36 @@ Notizen zur Vorlesung [Grundkurs VWL(WiSe 14/15)](https://lecture2go.uni-hamburg
     - Änderung der Nachfrage = Verschiebung der Kurve
       - Gründe:
         - Einkommen der Käuferin
-        - Preise anderer Güter: Subustitute (positiv), Komplemente (negativ)
+        - Preise anderer Güter:
+          - Substitute (positiv)
+            - Ersatz, austauschbares Gut (z.B. Eis und Frozen Yoghurt)
+          - Komplemente (negativ)
+            - Güter, die man gemeinsam konsumiert (z.B: Hard- u. Software)
         - Präferenzen der Käufer
         - Erwartungen zu Preisänderungen
         - Anzahl der Käufer
+  - __Angebot:__ die Gütermenge, welche Verköufer veräußern wollen/können
+    - _Gesetz des Angebots:_ angebotene Menge eines Guts steigt, wenn der Preis steigt
+    - Marktangebot: Summe aller Einzekangebote für ein Gut
+    - Änderung des Güterpreis: Bewegung auf der Angebotskurve
+    - Wichtigster Einflussfaktor: Güterpreis
+      - Weiter Determinanten:
+        - Preise der Input-Faktoren für die Prdouktion
+        - Technologie
+        - Erwartungen von Preisänderungen
+        - Anzahl der Verkäufer
+  - __Marktgleichgewicht:__ angebotene und nachgefragt Gütermenge sind gleich groß (Markträumung)
+    - passiert beim __Gleichgewichtspreis__ (P*)
+      - Schnittpunkt von Angebots- und Nachfragekurve
+  - Angebotsüberschuss
+    - Marktpreis größer als Gleichgewichtspreis (_Überversorgung_)
+    - Anbieter werden versuchen, den Preis zu senken, um Absatz zu erhöhen
+      - Bewegung hin zum Gleichgewicht
+      - Dies VS. Preisnehmerannahme
+  - Nachfragüberschuss
+    - Marktpreis niedriger als Gleichgewichtspreis (_Unterversorgung_)
+      - Nachfrage üerbieten sich gegenseitig (Bewegung zum GLeichgewicht)
+  - 
 
 
 
