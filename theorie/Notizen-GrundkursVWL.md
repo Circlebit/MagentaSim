@@ -155,7 +155,20 @@ Notizen zur Vorlesung [Grundkurs VWL(WiSe 14/15)](https://lecture2go.uni-hamburg
   - Nachfragüberschuss
     - Marktpreis niedriger als Gleichgewichtspreis (_Unterversorgung_)
       - Nachfrage üerbieten sich gegenseitig (Bewegung zum GLeichgewicht)
-  - 
+
+## Elastizitäten
+### Preiselastizität der Nachfrage
+$$\text{Preiselastizität} = \frac{\text{Änderung der Nachfragemenge in \%}}{\text{Preisänderung in \%}}$$
+  - Maß dafür, wie stark die Nachfragemenge eines Gutes Auf Änderungen des Güterpreises reagiert
+  - Unabhängig von Einheiten
+  - misst prozentuale Änderung der Nachfragemenge bei einer Preisänderungen von 1%
+  - Höhere Elastizität oft durch
+    - größere Anzahl von Substituten
+    - längerer Zeithorizont
+  - _Vollkommen elastische Nachfrage_
+    - nachgefragte Menge reagiert unendlich stark auf Preisänderung
+  
+
 
 
 
